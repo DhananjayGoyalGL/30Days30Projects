@@ -1,1 +1,2 @@
-7Projecta7Days is the strengthing of base of Frontend namely - JavaScript, HTML & CSS.
+#7Projecta7Days
+As a part of challenge to make projects with the help of HTML, CSS and JavaScript.
